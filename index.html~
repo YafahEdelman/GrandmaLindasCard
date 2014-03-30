@@ -11,26 +11,26 @@
 			<div id="pages">
 				<section>
 					<div>
-						<h2>THE CARD OF THE FUTURE!</h2>
-						<p>The world is currentely undergoing a transformation of technology as people use technology to do more and more amazing things. Using the latest in internet technology we introduce to you the CARD OF THE FUTURE. An online, interactive, offline compatible, touchscreen usable, card!</p>
+						<h1>THE CARD OF THE FUTURE!</h1>
+						<h4>The world is currentely undergoing a transformation of technology as people use technology to do more and more amazing things. Using the latest in internet technology we introduce to you the CARD OF THE FUTURE. An online, interactive, offline compatible, touchscreen usable, card!</h4>
 					</div>
 				</section>
 				<section>
 					<div>
-						<h2>Grandma Linda!</h2>
-						<p>As the march of technological progress has steadily advanced a goal or end point of this advancement has never been clear. Now it is finally revealed, technological progress has cumilated in what can only be seen as a trly awe inspiring goal. The goal of making a wonderful birthday card for Grandma Linda!</p>
+						<h1>Grandma Linda!</h1>
+						<h4>As the march of technological progress has steadily advanced a goal or end point of this advancement has never been clear. Now it is finally revealed, technological progress has cumilated in what can only be seen as a truly awe inspiring goal. The goal of making a wonderful birthday card for Grandma Linda!</h4>
 					</div>
 				</section>
 				<section>
 					<div>
-						<h2>Happy Birthday!</h2>
-						<p>Happy Birthday Grandma! Have a wonderful birthday. </p>
+						<h1>Happy Birthday!</h1>
+						<h4>Happy Birthday Grandma! Have a wonderful birthday. </h4>
 					</div>
 				</section>
 				<section>
 					<div>
-						<h2>The End!</h2>
-						<p>Love, Jacob!</p>
+						<h1>The End!</h1>
+						<h4>Love, Jacob!</h4>
 					</div>
 				</section>
 			</div>
