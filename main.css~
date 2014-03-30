@@ -1,4 +1,4 @@
-body, h2, p {
+body, h1, h3 {
 	margin: 0;
 	padding: 0;
 }
@@ -36,8 +36,8 @@ body {
 		height: 490px;
 		font-size: 12px;
 	}
-	#pages section p,
-	#pages section h2 {
+	#pages section h3,
+	#pages section h1 {
 		padding: 3px 35px;
 		line-height: 1.4em;
 		text-align: justify;
